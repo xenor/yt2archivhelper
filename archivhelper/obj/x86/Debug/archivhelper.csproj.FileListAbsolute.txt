@@ -1,0 +1,17 @@
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\bin\Debug\archivhelper.exe
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\bin\Debug\archivhelper.pdb
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\obj\x86\Debug\archivhelper.exe
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\obj\x86\Debug\archivhelper.pdb
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\bin\Debug\archivhelper.exe.config
+C:\Users\xenor\Documents\Visual Studio 2010\Projects\archivhelper\archivhelper\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\bin\Debug\archivhelper.exe.manifest
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\bin\Debug\archivhelper.application
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\obj\x86\Debug\archivhelper.exe.manifest
+C:\Users\xenor\documents\visual studio 2010\Projects\archivhelper\archivhelper\obj\x86\Debug\archivhelper.application
+C:\Users\xenor\Documents\Visual Studio 2010\Projects\archivhelper\archivhelper\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
